@@ -38,7 +38,7 @@ export const Nav = () => {
                </div>
                <div className={styles.container__li__dropdown__box}>
                    <span className="material-symbols-outlined icon">logout</span>
-                   <Link to="/logout"    ref={divEl} className={styles.container__li__dropdown__box__text}>Logout</Link>
+                   <Link to="/logout"    ref={divEl} className={styles.container__li__dropdown__box__text}>Sign in</Link>
                </div>
              </div>
             </p>
