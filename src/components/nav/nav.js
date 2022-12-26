@@ -56,7 +56,7 @@ export const Nav = () => {
               </li>
             <li>
             <span className="material-symbols-outlined icon">person</span>
-              <Link to="/account"    ref={divEl} className={styles.container__text}>Account</Link>
+              <Link to="/account"    ref={divEl} className={styles.container__text}>Profile</Link>
               </li>
             <li>
             <span className="material-symbols-outlined icon">logout</span>
