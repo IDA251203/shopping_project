@@ -40,7 +40,7 @@ export const Nav = () => {
                    <span className="material-symbols-outlined icon">logout</span>
                    <Link to="/logout"    ref={divEl} className={styles.container__li__dropdown__box__text}>Sign in</Link>
                </div>
-             </div>
+             </div> 
             </p>
             <li>
                 <img src={img1} alt="img1" className={styles.img1}/>
